@@ -136,6 +136,8 @@ INSERT INTO LISTA_COMPARTIDA (id_lista, nombre_usuario)
 	(1, 'Polaris'),
 	(1, 'feliponk'),
 	(1, 'FrankoElMejorXD95');
+	(3, 'feliponk'),
+	(3, 'FrankoElMejorXD95');
 	
 
 
