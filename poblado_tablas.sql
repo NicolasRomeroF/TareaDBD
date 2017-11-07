@@ -52,7 +52,8 @@ INSERT INTO ARTISTA_SELLO (id_sello, id_artista, fecha_inicio, fecha_termino)
 (1, 6, '2010-05-15', '2023-05-15'),
 (2, 7, '2016-05-15', '2022-05-15'),
 (3, 8, '2017-05-15', '2021-05-15'),
-(4, 9, '2011-05-15', '2020-05-15');
+(4, 9, '2011-05-15', '2014-05-15');
+
 
 INSERT INTO ARTISTAS_SIMILARES(id_artista, id_artista_similar)
 	VALUES (3, 4),
